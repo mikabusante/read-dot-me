@@ -13,6 +13,11 @@ const Site = styled.div`
   background: ${props => props.color};
   transition-property: background;
   transition-duration: 0.5s;
+
+  @media (max-width: 940px) {
+    display: flex;
+    flex-direction: column;
+  }
 `
 
 const index = ({ data }) => {
@@ -31,7 +36,7 @@ const index = ({ data }) => {
       <main>
         {data.allBooksJson.edges.map(
           ({ node: { id, theme, title, author, about, src } }) => (
-            <div key={title}>
+            <div key={title} name={id}>
               <Section
                 place={id}
                 animation={handleAnimation}
