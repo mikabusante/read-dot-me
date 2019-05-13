@@ -5,7 +5,6 @@ module.exports = {
     author: `@mikabusante`,
   },
   plugins: [
-    `gatsby-plugin-lodash`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     `gatsby-transformer-json`,
