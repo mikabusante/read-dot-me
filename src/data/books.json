@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "title": "Milkman",
+    "author": "Anna Burns",
+    "theme": "pink",
+    "src": "../images/1_milkman.jpg",
+    "about": "The last thing she ever wanted to be. To be interesting is to be noticed and to be noticed is dangerous. Milkman is a tale of gossip and hearsay, silence and deliberate deafness. It is the story ofinaction with enormous consequences."
+  },
+  {
+    "id": "2",
+    "title": "The Mars Room",
+    "author": "Rachel Kushner",
+    "theme": "orange",
+    "src": "../images/2_mars.jpg",
+    "about": " Inside is a new reality: thousands of women hustling for the bare essentials needed to survive; the bluffing and pageantry and casual acts of violence by guards and prisoners alike; and the deadpan absurdities of institutional living, which Kushner evokes with great humor and precision."
+  },
+  {
+    "id": "3",
+    "title": "My Year of Rest and Relaxation",
+    "author": "Ottessa Moshfegh",
+    "theme": "#C4406D",
+    "src": "../images/3_rest.jpg",
+    "about": "A shocking, hilarious and strangely tender novel about a young woman’s experiment in narcotic hibernation, aided and abetted by one of the worst psychiatrists in the annals of literature. "
+  },
+  {
+    "id": "4",
+    "title": "My Ex-Life",
+    "author": "Stephen McCauley",
+    "theme": "#9C93BF",
+    "src": "../images/4_ex.jpg",
+    "about": "In prose filled with hilarious and heartbreakingly accurate one-liners, Stephen McCauley has written a novel that examines how we define home, family, and love. Be prepared to laugh, shed a few tears, and have thoughts of your own ex-life triggered. (Throw pillows optional.)"
+  },
+  {
+    "id": "5",
+    "title": "How To Invent Everything",
+    "author": "Ryan North",
+    "theme": "#2BA0C9",
+    "src": "../images/5_invent.jpg",
+    "about": "What would you do if a time machine hurled you thousands of years into the past. . . and then broke? How would you survive? Could you improve on humanity's original timeline? And how hard would it be to domesticate a giant wombat? "
+  },
+  {
+    "id": "6",
+    "title": "The Overstory",
+    "author": "Richard Powers",
+    "theme": "#98AA91",
+    "src": "../images/6_overstory.jpg",
+    "about": "The Overstory is a book for all readers who despair of humanity’s self-imposed separation from the rest of creation and who hope for the transformative, regenerating possibility of a homecoming. If the trees of this earth could speak, what would they tell us? 'Listen. There’s something you need to hear.'"
+  },
+  {
+    "id": "7",
+    "title": "Circe",
+    "author": "Madeline Miller",
+    "theme": "#F0B943",
+    "src": "../images/7_circe.jpg",
+    "about": "With unforgettably vivid characters, mesmerizing language and page-turning suspense, Circe is a triumph of storytelling, an intoxicating epic of family rivalry, palace intrigue, love and loss, as well as a celebration of indomitable female strength in a man's world."
+  },
+  {
+    "id": "8",
+    "title": "The Female Persuasion",
+    "author": "Meg Wolitzer",
+    "theme": "#ED8583",
+    "src": "../images/8_persuasion.jpg",
+    "about": "Charming and wise, knowing and witty, Meg Wolitzer delivers a novel about power and influence, ego and loyalty, womanhood and ambition. At its heart, The Female Persuasion is about the flame we all believe is flickering inside of us, waiting to be seen and fanned by the right person at the right time. "
+  },
+  {
+    "id": "9",
+    "title": "Heavy: An American Memoir",
+    "author": "Kiese Laymon",
+    "theme": "#C5463C",
+    "src": "../images/9_heavy.jpg",
+    "about": "In this powerful and provocative memoir, genre-bending essayist and novelist Kiese Laymon explores what the weight of a lifetime of secrets, lies, and deception does to a black body, a black family, and a nation teetering on the brink of moral collapse.Kiese Laymon is a fearless writer."
+  },
+  {
+    "id": "10",
+    "title": "The Personality Brokers",
+    "author": "Merve Emre",
+    "theme": "#88A9D1",
+    "src": "../images/10_briggs.jpeg",
+    "about": "rawing from original reporting and never-before-published documents, The Personality Brokers takes a critical look at the personality indicator that became a cultural icon. Along the way it examines nothing less than the definition of the self–our attempts to grasp, categorize, and quantify our personalities. Surprising and absorbing, the book, like the test at its heart, considers the timeless question: What makes you, you?"
+  }
+]
